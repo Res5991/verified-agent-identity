@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: restu'
+        description: 'restu'
         required: true
         default: 'restu'
       agent_description:
